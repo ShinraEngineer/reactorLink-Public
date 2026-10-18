@@ -1,5 +1,10 @@
 # ReactorLink changelog
 
+## ReactorLink Update 3: send a friend a download link
+
+- **Send a friend a link.** "Send ReactorLink to a friend" (in the App section) now gives you a real download link anyone can open - no account needed. Before, I had to send you the installer myself.
+- Downloads and updates now come from the public ReactorLink page. Nothing else changes: the download icon still appears up top when there's a new version.
+
 ## ReactorLink Update 2
 
 - A settings gear at the bottom of the server list. It opens the App section of the dashboard (launch at system start, launch minimized, animations, updates, Fluxer and Discord or just one), and it works before you've signed in to anything.
