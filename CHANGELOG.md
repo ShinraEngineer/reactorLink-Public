@@ -4,10 +4,6 @@
 
 - A couple of behind-the-scenes additions for my own setup, plus small fixes under the hood. Nothing you need to do.
 
-## ReactorLink Update 5: a few extras and small fixes
-
-- A couple of behind-the-scenes additions for my own setup, plus small fixes under the hood. Nothing you need to do.
-
 ## ReactorLink Update 4: Discord stays signed in, and the full right-click menus
 
 - **Discord stays signed in.** Discord kept forgetting you between restarts. It only writes your sign-in back as it closes, and ReactorLink was saving a moment too early and missing it. Now it saves once Fluxer and Discord have finished closing, so you stay signed in across restarts and updates.
