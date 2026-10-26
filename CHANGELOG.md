@@ -1,5 +1,10 @@
 # ReactorLink changelog
 
+## ReactorLink Update 4: Discord stays signed in, and the full right-click menus
+
+- **Discord stays signed in.** Discord kept forgetting you between restarts. It only writes your sign-in back as it closes, and ReactorLink was saving a moment too early and missing it. Now it saves once Fluxer and Discord have finished closing, so you stay signed in across restarts and updates.
+- **The full right-click menus are back on Fluxer and Discord.** Right-clicking a server or community used to give you only the picture options (save image, copy image). Now you get the site's own menu - Mark as Read, Invite Members, Notification Settings, Leave Community, mute, and the rest. The picture and link options still show on the quick-link panels and anywhere that has no menu of its own.
+
 ## ReactorLink Update 3: send a friend a download link
 
 - **Send a friend a link.** "Send ReactorLink to a friend" (in the App section) now gives you a real download link anyone can open - no account needed. Before, I had to send you the installer myself.
